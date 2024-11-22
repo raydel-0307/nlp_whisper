@@ -1,0 +1,677 @@
+[
+  {
+    "text": "Vuelo: Vuelo directo de Madrid a Roma con Iberia, saliendo el 20 de octubre y regresando el 27 de octubre. Precio: €250."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en el centro de Roma, con desayuno incluido. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Coliseo y al Foro Romano, con entrada incluida. Precio: €50 por persona."
+  },
+  {
+    "text": "Transporte: Traslado en taxi desde el aeropuerto al hotel. Precio: €30."
+  },
+  {
+    "text": "Actividad: Clase de cocina italiana en una escuela de cocina local. Precio: €60 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo con escala de Londres a Nueva York con British Airways, saliendo el 5 de noviembre y regresando el 12 de noviembre. Precio: $400."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Manhattan, cerca de Times Square. Precio: $150 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Estatua de la Libertad y Ellis Island, con ferry incluido. Precio: $70 por persona."
+  },
+  {
+    "text": "Transporte: Billete de metro de 7 días para Nueva York. Precio: $30."
+  },
+  {
+    "text": "Actividad: Espectáculo de Broadway en el Teatro de la Ciudad. Precio: $100 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Barcelona a París con Vueling, saliendo el 10 de diciembre y regresando el 17 de diciembre. Precio: €150."
+  },
+  {
+    "text": "Alojamiento: Apartamento en el barrio latino de París, con cocina equipada. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Torre Eiffel y al Museo del Louvre. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Pase de transporte público de 2 días para París. Precio: €20."
+  },
+  {
+    "text": "Actividad: Visita a la Catedral de Notre Dame y al barrio de Montmartre. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Berlín a Amsterdam con Easyjet, saliendo el 20 de enero y regresando el 27 de enero. Precio: €100."
+  },
+  {
+    "text": "Alojamiento: Hostel en el centro de Amsterdam, con cocina compartida. Precio: €20 por noche."
+  },
+  {
+    "text": "Tour: Recorrido en bicicleta por los canales de Amsterdam. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Billete de autobús de 24 horas para Amsterdam. Precio: €10."
+  },
+  {
+    "text": "Actividad: Visita al Museo Van Gogh y al Museo de Anne Frank. Precio: €20 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo con escala de Frankfurt a Tokyo con Lufthansa, saliendo el 1 de febrero y regresando el 15 de febrero. Precio: €600."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Tokio, cerca de la estación de Shinjuku. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Santuario Meiji Jingu y al Palacio Imperial. Precio: €50 por persona."
+  },
+  {
+    "text": "Transporte: Tarjeta de transporte público de 7 días para Tokio. Precio: €50."
+  },
+  {
+    "text": "Actividad: Cena en un restaurante de sushi tradicional. Precio: €50 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de San Francisco a Los Ángeles con United Airlines, saliendo el 10 de marzo y regresando el 17 de marzo. Precio: $100."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Hollywood, con piscina y gimnasio. Precio: $200 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a Hollywood Boulevard y al Paseo de la Fama. Precio: $30 por persona."
+  },
+  {
+    "text": "Transporte: Alquilar un coche en Los Ángeles. Precio: $50 por día."
+  },
+  {
+    "text": "Actividad: Visita a Universal Studios Hollywood. Precio: $100 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Chicago a Miami con American Airlines, saliendo el 20 de abril y regresando el 27 de abril. Precio: $150."
+  },
+  {
+    "text": "Alojamiento: Hotel 5 estrellas en Miami Beach, con acceso a la playa. Precio: $300 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a South Beach y al distrito Art Deco. Precio: $40 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público en Miami. Precio: $10 por día."
+  },
+  {
+    "text": "Actividad: Paseo en barco por la bahía de Biscayne. Precio: $50 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Nueva York a Las Vegas con Southwest Airlines, saliendo el 1 de mayo y regresando el 8 de mayo. Precio: $120."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en el Strip de Las Vegas, con casino y espectáculos. Precio: $200 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Presa Hoover y al Valle de la Muerte. Precio: $100 por persona."
+  },
+  {
+    "text": "Transporte: Taxi en Las Vegas. Precio: $10 por trayecto."
+  },
+  {
+    "text": "Actividad: Espectáculo de magia en el Bellagio. Precio: $100 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Londres a Dublín con Ryanair, saliendo el 10 de junio y regresando el 17 de junio. Precio: €50."
+  },
+  {
+    "text": "Alojamiento: Hostel en el centro de Dublín, con cocina compartida. Precio: €20 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a Trinity College y al Guinness Storehouse. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Billete de autobús de 24 horas para Dublín. Precio: €10."
+  },
+  {
+    "text": "Actividad: Concierto en vivo en un pub irlandés. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de París a Ámsterdam con Transavia, saliendo el 20 de julio y regresando el 27 de julio. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Ámsterdam, cerca de la estación central. Precio: €90 por noche."
+  },
+  {
+    "text": "Tour: Recorrido en barco por los canales de Ámsterdam. Precio: €20 por persona."
+  },
+  {
+    "text": "Transporte: Billete de tranvía de 24 horas para Ámsterdam. Precio: €8."
+  },
+  {
+    "text": "Actividad: Visita al Museo de la Cerveza Heineken. Precio: €15 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Madrid a Lisboa con Iberia, saliendo el 1 de agosto y regresando el 8 de agosto. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en el barrio de Alfama de Lisboa, con vistas al río Tajo. Precio: €120 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al barrio de Belém y al Monasterio de los Jerónimos. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Tranvía de Lisboa. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Clase de fado en un bar tradicional. Precio: €20 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Roma a Atenas con Alitalia, saliendo el 10 de septiembre y regresando el 17 de septiembre. Precio: €100."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Atenas, cerca de la Acrópolis. Precio: €150 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Acrópolis y al Partenón. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Atenas. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo Arqueológico Nacional de Atenas. Precio: €10 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Barcelona a Berlín con Ryanair, saliendo el 20 de octubre y regresando el 27 de octubre. Precio: €50."
+  },
+  {
+    "text": "Alojamiento: Hostel en el barrio de Mitte de Berlín, con cocina compartida. Precio: €15 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Muro de Berlín y al Reichstag. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Berlín. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al East Side Gallery y al Museo del Holocausto. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Ámsterdam a Dublín con Ryanair, saliendo el 1 de noviembre y regresando el 8 de noviembre. Precio: €40."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Dublín, cerca del río Liffey. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Castillo de Dublín y al Museo Nacional de Irlanda. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Autobús turístico de Dublín. Precio: €15 por día."
+  },
+  {
+    "text": "Actividad: Visita al Jardín Botánico Nacional de Irlanda. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Berlín a Londres con Easyjet, saliendo el 10 de diciembre y regresando el 17 de diciembre. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Apartamento en el barrio de Camden Town de Londres, con cocina equipada. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Buckingham y al Parlamento. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Londres. Precio: €3 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo Británico y al Museo de Historia Natural. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Londres a París con Easyjet, saliendo el 20 de enero y regresando el 27 de enero. Precio: €50."
+  },
+  {
+    "text": "Alojamiento: Hotel 2 estrellas en el barrio de Montmartre de París, con desayuno incluido. Precio: €70 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Catedral de Notre Dame y al barrio latino. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de París. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo del Louvre y al Museo de Orsay. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de París a Roma con Alitalia, saliendo el 1 de febrero y regresando el 8 de febrero. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en el centro de Roma, cerca de la Fontana de Trevi. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Coliseo y al Foro Romano. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Roma. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Vaticano y a la Capilla Sixtina. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Roma a Atenas con Aegean Airlines, saliendo el 10 de marzo y regresando el 17 de marzo. Precio: €90."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Atenas, cerca de la Acrópolis. Precio: €120 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Acrópolis y al Partenón. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Autobús turístico de Atenas. Precio: €10 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Arqueológico Nacional de Atenas. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Atenas a Estambul con Turkish Airlines, saliendo el 20 de abril y regresando el 27 de abril. Precio: €110."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Estambul, cerca de la Mezquita Azul. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a Santa Sofía y al Gran Bazar. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Estambul. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Crucero por el Bósforo. Precio: €30 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Estambul a Praga con Turkish Airlines, saliendo el 1 de mayo y regresando el 8 de mayo. Precio: €120."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Praga, cerca del Puente Carlos. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Castillo de Praga y al Reloj Astronómico. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Tranvía de Praga. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al barrio judío de Praga y al Museo de Kafka. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Praga a Budapest con Ryanair, saliendo el 10 de junio y regresando el 17 de junio. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Budapest, cerca del Parlamento. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Parlamento y al Puente de las Cadenas. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Budapest. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita a las Termas Széchenyi y al Museo de Bellas Artes. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Budapest a Viena con Wizz Air, saliendo el 20 de julio y regresando el 27 de julio. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Viena, cerca del Palacio de Hofburg. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Schönbrunn y a la Ópera Estatal de Viena. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Viena. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Albertina y al Museo de Historia del Arte. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Viena a Amsterdam con Transavia, saliendo el 1 de agosto y regresando el 8 de agosto. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Ámsterdam, cerca de la estación central. Precio: €90 por noche."
+  },
+  {
+    "text": "Tour: Recorrido en barco por los canales de Ámsterdam. Precio: €20 por persona."
+  },
+  {
+    "text": "Transporte: Billete de tranvía de 24 horas para Ámsterdam. Precio: €8."
+  },
+  {
+    "text": "Actividad: Visita al Museo de la Cerveza Heineken. Precio: €15 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Amsterdam a Berlín con Easyjet, saliendo el 10 de septiembre y regresando el 17 de septiembre. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hostel en el barrio de Mitte de Berlín, con cocina compartida. Precio: €15 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Muro de Berlín y al Reichstag. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Berlín. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al East Side Gallery y al Museo del Holocausto. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Berlín a Londres con Easyjet, saliendo el 20 de octubre y regresando el 27 de octubre. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Apartamento en el barrio de Camden Town de Londres, con cocina equipada. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Buckingham y al Parlamento. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Londres. Precio: €3 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo Británico y al Museo de Historia Natural. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Londres a París con Easyjet, saliendo el 1 de noviembre y regresando el 8 de noviembre. Precio: €50."
+  },
+  {
+    "text": "Alojamiento: Hotel 2 estrellas en el barrio de Montmartre de París, con desayuno incluido. Precio: €70 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Catedral de Notre Dame y al barrio latino. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de París. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo del Louvre y al Museo de Orsay. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de París a Roma con Alitalia, saliendo el 10 de diciembre y regresando el 17 de diciembre. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en el centro de Roma, cerca de la Fontana de Trevi. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Coliseo y al Foro Romano. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Roma. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Vaticano y a la Capilla Sixtina. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Roma a Atenas con Aegean Airlines, saliendo el 20 de enero y regresando el 27 de enero. Precio: €90."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Atenas, cerca de la Acrópolis. Precio: €120 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Acrópolis y al Partenón. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Autobús turístico de Atenas. Precio: €10 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Arqueológico Nacional de Atenas. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Atenas a Estambul con Turkish Airlines, saliendo el 1 de febrero y regresando el 8 de febrero. Precio: €110."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Estambul, cerca de la Mezquita Azul. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a Santa Sofía y al Gran Bazar. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Estambul. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Crucero por el Bósforo. Precio: €30 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Estambul a Praga con Turkish Airlines, saliendo el 10 de marzo y regresando el 17 de marzo. Precio: €120."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Praga, cerca del Puente Carlos. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Castillo de Praga y al Reloj Astronómico. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Tranvía de Praga. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al barrio judío de Praga y al Museo de Kafka. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Praga a Budapest con Ryanair, saliendo el 20 de abril y regresando el 27 de abril. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Budapest, cerca del Parlamento. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Parlamento y al Puente de las Cadenas. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Budapest. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita a las Termas Széchenyi y al Museo de Bellas Artes. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Budapest a Viena con Wizz Air, saliendo el 1 de mayo y regresando el 8 de mayo. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Viena, cerca del Palacio de Hofburg. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Schönbrunn y a la Ópera Estatal de Viena. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Viena. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Albertina y al Museo de Historia del Arte. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Viena a Amsterdam con Transavia, saliendo el 10 de junio y regresando el 17 de junio. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Ámsterdam, cerca de la estación central. Precio: €90 por noche."
+  },
+  {
+    "text": "Tour: Recorrido en barco por los canales de Ámsterdam. Precio: €20 por persona."
+  },
+  {
+    "text": "Transporte: Billete de tranvía de 24 horas para Ámsterdam. Precio: €8."
+  },
+  {
+    "text": "Actividad: Visita al Museo de la Cerveza Heineken. Precio: €15 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Amsterdam a Berlín con Easyjet, saliendo el 20 de julio y regresando el 27 de julio. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hostel en el barrio de Mitte de Berlín, con cocina compartida. Precio: €15 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Muro de Berlín y al Reichstag. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Berlín. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al East Side Gallery y al Museo del Holocausto. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Berlín a Londres con Easyjet, saliendo el 1 de agosto y regresando el 8 de agosto. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Apartamento en el barrio de Camden Town de Londres, con cocina equipada. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Buckingham y al Parlamento. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Londres. Precio: €3 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo Británico y al Museo de Historia Natural. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Londres a París con Easyjet, saliendo el 10 de septiembre y regresando el 17 de septiembre. Precio: €50."
+  },
+  {
+    "text": "Alojamiento: Hotel 2 estrellas en el barrio de Montmartre de París, con desayuno incluido. Precio: €70 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Catedral de Notre Dame y al barrio latino. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de París. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo del Louvre y al Museo de Orsay. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de París a Roma con Alitalia, saliendo el 20 de octubre y regresando el 27 de octubre. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en el centro de Roma, cerca de la Fontana de Trevi. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Coliseo y al Foro Romano. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Roma. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Vaticano y a la Capilla Sixtina. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Roma a Atenas con Aegean Airlines, saliendo el 1 de noviembre y regresando el 8 de noviembre. Precio: €90."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Atenas, cerca de la Acrópolis. Precio: €120 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a la Acrópolis y al Partenón. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Autobús turístico de Atenas. Precio: €10 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Arqueológico Nacional de Atenas. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Atenas a Estambul con Turkish Airlines, saliendo el 10 de diciembre y regresando el 17 de diciembre. Precio: €110."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Estambul, cerca de la Mezquita Azul. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada a Santa Sofía y al Gran Bazar. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Estambul. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Crucero por el Bósforo. Precio: €30 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Estambul a Praga con Turkish Airlines, saliendo el 20 de enero y regresando el 27 de enero. Precio: €120."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Praga, cerca del Puente Carlos. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Castillo de Praga y al Reloj Astronómico. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Tranvía de Praga. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al barrio judío de Praga y al Museo de Kafka. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Praga a Budapest con Ryanair, saliendo el 1 de febrero y regresando el 8 de febrero. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Budapest, cerca del Parlamento. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Parlamento y al Puente de las Cadenas. Precio: €30 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Budapest. Precio: €2 por viaje."
+  },
+  {
+    "text": "Actividad: Visita a las Termas Széchenyi y al Museo de Bellas Artes. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Budapest a Viena con Wizz Air, saliendo el 10 de marzo y regresando el 17 de marzo. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hotel 4 estrellas en Viena, cerca del Palacio de Hofburg. Precio: €100 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Schönbrunn y a la Ópera Estatal de Viena. Precio: €35 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Viena. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al Museo Albertina y al Museo de Historia del Arte. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Viena a Amsterdam con Transavia, saliendo el 20 de abril y regresando el 27 de abril. Precio: €80."
+  },
+  {
+    "text": "Alojamiento: Hotel 3 estrellas en Ámsterdam, cerca de la estación central. Precio: €90 por noche."
+  },
+  {
+    "text": "Tour: Recorrido en barco por los canales de Ámsterdam. Precio: €20 por persona."
+  },
+  {
+    "text": "Transporte: Billete de tranvía de 24 horas para Ámsterdam. Precio: €8."
+  },
+  {
+    "text": "Actividad: Visita al Museo de la Cerveza Heineken. Precio: €15 por persona."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Amsterdam a Berlín con Easyjet, saliendo el 1 de mayo y regresando el 8 de mayo. Precio: €70."
+  },
+  {
+    "text": "Alojamiento: Hostel en el barrio de Mitte de Berlín, con cocina compartida. Precio: €15 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Muro de Berlín y al Reichstag. Precio: €25 por persona."
+  },
+  {
+    "text": "Transporte: Transporte público de Berlín. Precio: €3 por día."
+  },
+  {
+    "text": "Actividad: Visita al East Side Gallery y al Museo del Holocausto. Precio: Gratis."
+  },
+  {
+    "text": "Vuelo: Vuelo directo de Berlín a Londres con Easyjet, saliendo el 10 de junio y regresando el 17 de junio. Precio: €60."
+  },
+  {
+    "text": "Alojamiento: Apartamento en el barrio de Camden Town de Londres, con cocina equipada. Precio: €80 por noche."
+  },
+  {
+    "text": "Tour: Visita guiada al Palacio de Buckingham y al Parlamento. Precio: €40 por persona."
+  },
+  {
+    "text": "Transporte: Metro de Londres. Precio: €3 por viaje."
+  },
+  {
+    "text": "Actividad: Visita al Museo Británico y al Museo de Historia Natural. Precio: Gratis."
+  }
+]

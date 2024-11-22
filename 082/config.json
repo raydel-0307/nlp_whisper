@@ -1,0 +1,17 @@
+{
+	"model_name":"gpt2",
+	"dataset":[
+		{
+			"type":"json",
+			"filename":"data_082.json"
+		}
+	],
+	"prompt":"path-to-audio",
+	"prompt_type":"audio",
+	"whisper_model":"small",
+	"is_screen":true,
+	"max_length":250,
+	"temperature":0.7,
+	"top_k":1000,
+	"top_p":0.9
+}

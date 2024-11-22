@@ -1,0 +1,5 @@
+transformers
+datasets
+torch==2.0.1
+accelerate
+git+https://github.com/openai/whisper.git
