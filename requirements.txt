@@ -1,5 +1,5 @@
-transformers
-datasets
-torch==2.0.1
-accelerate
+transformers==4.46.2
+datasets==3.1.0
+torch==2.5.1+cu121
+accelerate==1.1.1
 git+https://github.com/openai/whisper.git
